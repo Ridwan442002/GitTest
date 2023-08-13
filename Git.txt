@@ -2,3 +2,6 @@ git config --global user.name    /     git config --global user.email
 
 git config --global user.name "Ridwan"     /      git config --global user.email "peterminthu@gmail.com"
 
+git init / git status / git add .
+
+git commit -m "title" / git status / git log
